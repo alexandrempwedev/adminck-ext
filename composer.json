@@ -1,7 +1,7 @@
 
 
 {
-    "name": " alexandrempwedev / adminck-ext",
+    "name": " alexandrempwedev/adminck-ext",
     "description": "Easy way to use ckfinder and ckeditor in laravel-admin",
     "license": "MIT",
     "authors": [
