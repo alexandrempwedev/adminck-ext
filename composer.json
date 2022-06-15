@@ -18,14 +18,14 @@
     },
     "autoload": {
         "psr-4": {
-            "alexandrempwedev\\adminck-ext\\": "src",
+            "Xn\\AdminCK\\": "src",
             "CKSource\\CKFinder\\": "connector/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ALEXANDREMPWEDEV\\ADMINCK-EXT\\AdminCKServiceProvider"
+                "Xn\\AdminCK\\AdminCKServiceProvider"
             ]
         }
     }
